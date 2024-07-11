@@ -1,4 +1,5 @@
-
+### View Website
+- https://cryptex-mu.vercel.app
 ### Run Locally
 
 To run **Cryptex** locally, run this command on your git bash:
